@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="MasterDetails/MasterDetails.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetails/MasterViewController.cs">
+    <Files>
+      <File FileName="MasterDetails/MasterViewController.cs" Line="64" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MasterDetails PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.668EE052-2F25-4496-A531-F730FA531931" />
+</Properties>
